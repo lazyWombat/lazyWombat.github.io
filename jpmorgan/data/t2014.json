@@ -1,0 +1,101 @@
+{
+    "RESULTS_TYPE": "TEAMS",
+    "RESULTS": [
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Martin Dent",
+                    "TIME": "16:09"
+                },
+                {
+                    "DISPLAY_NAME": "Brad Hetharia",
+                    "TIME": "17:56"
+                },
+                {
+                    "DISPLAY_NAME": "James Minto",
+                    "TIME": "18:06"
+                },
+                {
+                    "DISPLAY_NAME": "Adam Leane",
+                    "TIME": "18:20"
+                }
+            ],
+            "OVERALL_TEAM": 1,
+            "TEAM_NAME": "DEPARTMENT OF INDUSTRY",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Government",
+            "OVERGENDER_TEAM": 1,
+            "OVERCATEGORY_TEAM": 1,
+            "OVERCATEGORY_GENDER_TEAM": 1,
+            "TEAM_TIME": "1:10:31",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Anthony Lowes",
+                    "TIME": "18:19"
+                },
+                {
+                    "DISPLAY_NAME": "Mathew Kaley",
+                    "TIME": "19:31"
+                },
+                {
+                    "DISPLAY_NAME": "Kirsten Molloy",
+                    "TIME": "20:20"
+                },
+                {
+                    "DISPLAY_NAME": "Amy Brown",
+                    "TIME": "21:38"
+                }
+            ],
+            "OVERALL_TEAM": 2,
+            "TEAM_NAME": "Allianz",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": null,
+            "OVERGENDER_TEAM": 1,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:19:48",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Sonya van beek",
+                    "TIME": "21:44"
+                },
+                {
+                    "DISPLAY_NAME": "Zoe Williams",
+                    "TIME": "23:13"
+                },
+                {
+                    "DISPLAY_NAME": "NICOLE BROWN",
+                    "TIME": "24:07"
+                },
+                {
+                    "DISPLAY_NAME": "Jacqui Crothers",
+                    "TIME": "24:16"
+                }
+            ],
+            "OVERALL_TEAM": 3,
+            "TEAM_NAME": "CBA Group",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": null,
+            "OVERGENDER_TEAM": 1,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:33:20",
+            "DISPLAY_NAME": ""
+        }
+    ],
+    "GENDERS": {
+        "Men": 1,
+        "Women": 1,
+        "Mixed": 1
+    },
+    "CATEGORIES": {
+        "0": "Government",
+        "1": null
+    }
+}

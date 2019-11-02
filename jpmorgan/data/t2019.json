@@ -1,0 +1,5132 @@
+{
+    "RESULTS_TYPE": "TEAMS",
+    "RESULTS": [
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Max Wakefield",
+                    "TIME": "18:35"
+                },
+                {
+                    "DISPLAY_NAME": "Peter Wallis",
+                    "TIME": "18:41"
+                },
+                {
+                    "DISPLAY_NAME": "Richard Banks",
+                    "TIME": "19:31"
+                },
+                {
+                    "DISPLAY_NAME": "Matthew Gibson",
+                    "TIME": "19:44"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "RESERVE BANK OF AUSTRALIA",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Government",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:16:31",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Jack Maxwell",
+                    "TIME": "17:43"
+                },
+                {
+                    "DISPLAY_NAME": "John Wholley",
+                    "TIME": "19:40"
+                },
+                {
+                    "DISPLAY_NAME": "Darren Kirke",
+                    "TIME": "21:15"
+                },
+                {
+                    "DISPLAY_NAME": "Rob Bernath",
+                    "TIME": "21:35"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "UBS",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:20:13",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Ben Streckeisen",
+                    "TIME": "19:47"
+                },
+                {
+                    "DISPLAY_NAME": "James Smith",
+                    "TIME": "20:16"
+                },
+                {
+                    "DISPLAY_NAME": "Andrew Daly",
+                    "TIME": "21:36"
+                },
+                {
+                    "DISPLAY_NAME": "T Cregan",
+                    "TIME": "22:20"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "GLENCORE",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Other",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:23:59",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Anthony Biggs",
+                    "TIME": "19:28"
+                },
+                {
+                    "DISPLAY_NAME": "Saweng Lam",
+                    "TIME": "19:55"
+                },
+                {
+                    "DISPLAY_NAME": "Joel Wilson",
+                    "TIME": "22:03"
+                },
+                {
+                    "DISPLAY_NAME": "William Suryadi",
+                    "TIME": "22:59"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "QUANTIUM",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:24:25",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Mikael Holmstrom",
+                    "TIME": "20:34"
+                },
+                {
+                    "DISPLAY_NAME": "Daniel Mueller",
+                    "TIME": "21:27"
+                },
+                {
+                    "DISPLAY_NAME": "GARETH TOPPING",
+                    "TIME": "22:08"
+                },
+                {
+                    "DISPLAY_NAME": "Benjamin Widdup",
+                    "TIME": "23:03"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "FINISAR AUSTRALIA",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Telecommunications ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:27:12",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "adam gayton",
+                    "TIME": "21:04"
+                },
+                {
+                    "DISPLAY_NAME": "Oliver Gregory",
+                    "TIME": "21:57"
+                },
+                {
+                    "DISPLAY_NAME": "Max Neilson",
+                    "TIME": "22:19"
+                },
+                {
+                    "DISPLAY_NAME": "Michael Gilroy",
+                    "TIME": "22:22"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "Hays",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:27:42",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Sam Gliddon",
+                    "TIME": "19:22"
+                },
+                {
+                    "DISPLAY_NAME": "tim cradock",
+                    "TIME": "21:42"
+                },
+                {
+                    "DISPLAY_NAME": "Melvin Chan",
+                    "TIME": "23:46"
+                },
+                {
+                    "DISPLAY_NAME": "James Mackie",
+                    "TIME": "23:55"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ALLIANZ",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:28:45",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Callan",
+                    "TIME": "21:19"
+                },
+                {
+                    "DISPLAY_NAME": "Gigi Lovicu",
+                    "TIME": "21:21"
+                },
+                {
+                    "DISPLAY_NAME": "Philip Song",
+                    "TIME": "21:53"
+                },
+                {
+                    "DISPLAY_NAME": "Luke Porter",
+                    "TIME": "24:16"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "RESERVE BANK OF AUSTRALIA",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Government",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:28:49",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Simon Hempel",
+                    "TIME": "20:59"
+                },
+                {
+                    "DISPLAY_NAME": "Vivek Miranda",
+                    "TIME": "22:17"
+                },
+                {
+                    "DISPLAY_NAME": "Tom Prendiville",
+                    "TIME": "22:23"
+                },
+                {
+                    "DISPLAY_NAME": "Benjamin Brownette",
+                    "TIME": "23:29"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLSA",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:29:08",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Alex Etheridge-Williams",
+                    "TIME": "20:33"
+                },
+                {
+                    "DISPLAY_NAME": "Kiran Kumar",
+                    "TIME": "22:13"
+                },
+                {
+                    "DISPLAY_NAME": "Finlay Macdonald-Stack",
+                    "TIME": "22:52"
+                },
+                {
+                    "DISPLAY_NAME": "James Reilly",
+                    "TIME": "23:32"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ORIGIN ENERGY",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Petroleum Refining/Crude Oil Products/Gas/Mining",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:29:10",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Dominic Bullock",
+                    "TIME": "18:40"
+                },
+                {
+                    "DISPLAY_NAME": "Mathew Roberts",
+                    "TIME": "21:30"
+                },
+                {
+                    "DISPLAY_NAME": "Philippa Scott",
+                    "TIME": "24:16"
+                },
+                {
+                    "DISPLAY_NAME": "Kristi McLachlan",
+                    "TIME": "26:05"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SYDNEY AIRPORT",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Airlines/Travel Related",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:30:31",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Matt Dawson ",
+                    "TIME": "18:41"
+                },
+                {
+                    "DISPLAY_NAME": "Ben Gales",
+                    "TIME": "23:24"
+                },
+                {
+                    "DISPLAY_NAME": "Ben Rooke",
+                    "TIME": "23:53"
+                },
+                {
+                    "DISPLAY_NAME": "Jordan Hatch",
+                    "TIME": "24:50"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "NSW DEPARTMENT OF PREMIER AND CABINET",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Government",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:30:48",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Bruce Lambert",
+                    "TIME": "19:14"
+                },
+                {
+                    "DISPLAY_NAME": "Jen Reid",
+                    "TIME": "23:08"
+                },
+                {
+                    "DISPLAY_NAME": "Clive Maguchu",
+                    "TIME": "24:16"
+                },
+                {
+                    "DISPLAY_NAME": "Sinead Keane",
+                    "TIME": "24:53"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "QBE GROUP",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:31:31",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "William Andrew Thackray",
+                    "TIME": "21:54"
+                },
+                {
+                    "DISPLAY_NAME": "Henry Herkes",
+                    "TIME": "22:07"
+                },
+                {
+                    "DISPLAY_NAME": "James Alexander",
+                    "TIME": "23:58"
+                },
+                {
+                    "DISPLAY_NAME": "Sam Willis",
+                    "TIME": "24:04"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "DIMENSIONAL FUND ADVISORS",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:32:03",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Hugh Frazer",
+                    "TIME": "21:48"
+                },
+                {
+                    "DISPLAY_NAME": "THOMAS FEHLNER",
+                    "TIME": "23:17"
+                },
+                {
+                    "DISPLAY_NAME": "Robert Thompson",
+                    "TIME": "23:25"
+                },
+                {
+                    "DISPLAY_NAME": "Angus Larcombe",
+                    "TIME": "23:52"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ROYAL BANK OF CANADA",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:32:22",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "guennole de trogoff",
+                    "TIME": "21:00"
+                },
+                {
+                    "DISPLAY_NAME": "Colin Hannah",
+                    "TIME": "23:21"
+                },
+                {
+                    "DISPLAY_NAME": "Rainer Hoft",
+                    "TIME": "23:49"
+                },
+                {
+                    "DISPLAY_NAME": "Adrian Wyatt",
+                    "TIME": "24:18"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SUSQUEHANNA PACIFIC PTY LTD",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:32:28",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Darren Moyle",
+                    "TIME": "19:38"
+                },
+                {
+                    "DISPLAY_NAME": "Pete McAllister",
+                    "TIME": "23:37"
+                },
+                {
+                    "DISPLAY_NAME": "Jeremy OConnor",
+                    "TIME": "25:27"
+                },
+                {
+                    "DISPLAY_NAME": "MAX BROODRYK",
+                    "TIME": "25:47"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "AXA XL",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:34:29",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Kris McDonald",
+                    "TIME": "22:13"
+                },
+                {
+                    "DISPLAY_NAME": "Brian McCarthy ",
+                    "TIME": "22:47"
+                },
+                {
+                    "DISPLAY_NAME": "Goldberg",
+                    "TIME": "24:08"
+                },
+                {
+                    "DISPLAY_NAME": "James  Dewar",
+                    "TIME": "25:28"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "WESTERN UNION",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:34:36",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Sam Lollback",
+                    "TIME": "21:52"
+                },
+                {
+                    "DISPLAY_NAME": "Luke Reeves",
+                    "TIME": "24:13"
+                },
+                {
+                    "DISPLAY_NAME": "Michael Eager",
+                    "TIME": "24:27"
+                },
+                {
+                    "DISPLAY_NAME": "Hugh Wehby",
+                    "TIME": "24:32"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SYDNEY AIRPORT",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Airlines/Travel Related",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:35:04",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Matt Henshaw",
+                    "TIME": "23:00"
+                },
+                {
+                    "DISPLAY_NAME": "Oliver Schwarzer",
+                    "TIME": "23:21"
+                },
+                {
+                    "DISPLAY_NAME": "Richard Chen",
+                    "TIME": "24:27"
+                },
+                {
+                    "DISPLAY_NAME": "Zac Rabie",
+                    "TIME": "24:36"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "QUANTIUM",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:35:24",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Andrew Maple-Brown",
+                    "TIME": "21:39"
+                },
+                {
+                    "DISPLAY_NAME": "Will Main",
+                    "TIME": "23:28"
+                },
+                {
+                    "DISPLAY_NAME": "Rob Lee",
+                    "TIME": "25:40"
+                },
+                {
+                    "DISPLAY_NAME": "Sam Parkinson",
+                    "TIME": "25:49"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "MAPLE-BROWN ABBOTT",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:36:36",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Josh Maqsood",
+                    "TIME": "23:43"
+                },
+                {
+                    "DISPLAY_NAME": "Rhys Whiting",
+                    "TIME": "23:56"
+                },
+                {
+                    "DISPLAY_NAME": "Michael Gregory",
+                    "TIME": "24:26"
+                },
+                {
+                    "DISPLAY_NAME": "Hamish Cruden",
+                    "TIME": "24:33"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "MILES ADVISORY PARTNERS",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:36:38",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Nikolay Nikolaev",
+                    "TIME": "20:07"
+                },
+                {
+                    "DISPLAY_NAME": "Ashish Ahluwalia",
+                    "TIME": "21:46"
+                },
+                {
+                    "DISPLAY_NAME": "Jason Khou",
+                    "TIME": "26:58"
+                },
+                {
+                    "DISPLAY_NAME": "Dmitro Lyulik",
+                    "TIME": "28:26"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "FINITY CONSULTING",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:37:17",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "George Pasas",
+                    "TIME": "23:48"
+                },
+                {
+                    "DISPLAY_NAME": "Mark Simmonds",
+                    "TIME": "24:10"
+                },
+                {
+                    "DISPLAY_NAME": "Dane McKeen",
+                    "TIME": "24:14"
+                },
+                {
+                    "DISPLAY_NAME": "Angus Roy",
+                    "TIME": "25:11"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLAYTON UTZ",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Legal",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:37:23",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Paul Cooley",
+                    "TIME": "19:48"
+                },
+                {
+                    "DISPLAY_NAME": "Tom Holcombe",
+                    "TIME": "24:24"
+                },
+                {
+                    "DISPLAY_NAME": "Ben Davis",
+                    "TIME": "26:04"
+                },
+                {
+                    "DISPLAY_NAME": "Joseph Kemp",
+                    "TIME": "27:16"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CROWN SOLICITORS OFFICE ",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Government",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:37:32",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Rebecca Harper",
+                    "TIME": "21:57"
+                },
+                {
+                    "DISPLAY_NAME": "ANGUS WALTER FORSYTH",
+                    "TIME": "23:45"
+                },
+                {
+                    "DISPLAY_NAME": "Carl Portelli",
+                    "TIME": "24:44"
+                },
+                {
+                    "DISPLAY_NAME": "Rosana Wayand",
+                    "TIME": "27:48"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "KORN FERRY",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:38:14",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Bernice Lethlean",
+                    "TIME": "23:16"
+                },
+                {
+                    "DISPLAY_NAME": "Francesca Teng",
+                    "TIME": "24:05"
+                },
+                {
+                    "DISPLAY_NAME": "Alexandra Knights",
+                    "TIME": "24:19"
+                },
+                {
+                    "DISPLAY_NAME": "Grete Altosaar",
+                    "TIME": "27:00"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLAYTON UTZ",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Legal",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:38:40",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Angus Young",
+                    "TIME": "24:22"
+                },
+                {
+                    "DISPLAY_NAME": "Patrick Church",
+                    "TIME": "24:42"
+                },
+                {
+                    "DISPLAY_NAME": "Ryan Lansdown",
+                    "TIME": "25:23"
+                },
+                {
+                    "DISPLAY_NAME": "Anthony Angelillo",
+                    "TIME": "26:14"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "PWC RISK ASSURANCE",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Accounting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:40:41",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Shannon  Wolfers ",
+                    "TIME": "23:03"
+                },
+                {
+                    "DISPLAY_NAME": "Matthew Lyle",
+                    "TIME": "24:16"
+                },
+                {
+                    "DISPLAY_NAME": "Paul Ryan",
+                    "TIME": "26:34"
+                },
+                {
+                    "DISPLAY_NAME": "DO",
+                    "TIME": "27:10"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "PACIFIC EQUITY PARTNERS ",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:41:03",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Matthew Tarlinton",
+                    "TIME": "22:51"
+                },
+                {
+                    "DISPLAY_NAME": "Evan Karatzas",
+                    "TIME": "22:53"
+                },
+                {
+                    "DISPLAY_NAME": "Isabella Blakiston",
+                    "TIME": "27:19"
+                },
+                {
+                    "DISPLAY_NAME": "Olivia Reed",
+                    "TIME": "28:12"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "UBS",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:41:15",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Johnny Norris",
+                    "TIME": "24:19"
+                },
+                {
+                    "DISPLAY_NAME": "Arthur Liu",
+                    "TIME": "25:12"
+                },
+                {
+                    "DISPLAY_NAME": "Evgeny",
+                    "TIME": "25:57"
+                },
+                {
+                    "DISPLAY_NAME": "Shiyun Zhang",
+                    "TIME": "26:04"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SUSQUEHANNA PACIFIC PTY LTD",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:41:32",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Ryan  Ladd",
+                    "TIME": "24:43"
+                },
+                {
+                    "DISPLAY_NAME": "Jacob Blake",
+                    "TIME": "25:23"
+                },
+                {
+                    "DISPLAY_NAME": "Byron Fleury",
+                    "TIME": "25:23"
+                },
+                {
+                    "DISPLAY_NAME": "Ciprian Baches",
+                    "TIME": "26:17"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ALLIANZ",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:41:46",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Slava",
+                    "TIME": "25:22"
+                },
+                {
+                    "DISPLAY_NAME": "Ian Rathmell",
+                    "TIME": "25:25"
+                },
+                {
+                    "DISPLAY_NAME": "Marc Segall",
+                    "TIME": "25:27"
+                },
+                {
+                    "DISPLAY_NAME": "Timo Zauner",
+                    "TIME": "25:33"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "DIMENSIONAL FUND ADVISORS",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:41:47",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Timothy Morrow",
+                    "TIME": "24:17"
+                },
+                {
+                    "DISPLAY_NAME": "Mark Stoneham",
+                    "TIME": "24:23"
+                },
+                {
+                    "DISPLAY_NAME": "Sameer Parker",
+                    "TIME": "25:35"
+                },
+                {
+                    "DISPLAY_NAME": "Chris Paterson",
+                    "TIME": "28:44"
+                }
+            ],
+            "OVERALL_TEAM": 1,
+            "TEAM_NAME": "VENTURE CONSULTING",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": 1,
+            "OVERCATEGORY_TEAM": 1,
+            "OVERCATEGORY_GENDER_TEAM": 1,
+            "TEAM_TIME": "1:42:59",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Alex Whitelum",
+                    "TIME": "25:14"
+                },
+                {
+                    "DISPLAY_NAME": "Chris D'Netto",
+                    "TIME": "25:57"
+                },
+                {
+                    "DISPLAY_NAME": "Sam Frouhar",
+                    "TIME": "26:06"
+                },
+                {
+                    "DISPLAY_NAME": "George Stephens",
+                    "TIME": "26:13"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLAYTON UTZ",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Legal",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:43:30",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Enzo Cutrupi",
+                    "TIME": "20:57"
+                },
+                {
+                    "DISPLAY_NAME": "Andrew Howlett",
+                    "TIME": "24:43"
+                },
+                {
+                    "DISPLAY_NAME": "Paul Canavan",
+                    "TIME": "28:55"
+                },
+                {
+                    "DISPLAY_NAME": "Andrew Jothy",
+                    "TIME": "29:12"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "AON ",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:43:47",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Arben  Sulko",
+                    "TIME": "25:21"
+                },
+                {
+                    "DISPLAY_NAME": "Rory Donohue",
+                    "TIME": "25:49"
+                },
+                {
+                    "DISPLAY_NAME": "Justin Ivanovic",
+                    "TIME": "26:10"
+                },
+                {
+                    "DISPLAY_NAME": "James Halligan",
+                    "TIME": "26:55"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "PWC RISK CONSULTING",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:44:15",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Julian Moore",
+                    "TIME": "20:54"
+                },
+                {
+                    "DISPLAY_NAME": "Campbell Stevens",
+                    "TIME": "25:05"
+                },
+                {
+                    "DISPLAY_NAME": "Cameron McCormack",
+                    "TIME": "25:14"
+                },
+                {
+                    "DISPLAY_NAME": "James Gil",
+                    "TIME": "33:30"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "VANECK AUSTRALIA",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:44:43",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Chris Thom",
+                    "TIME": "25:28"
+                },
+                {
+                    "DISPLAY_NAME": "Tinus Willemse",
+                    "TIME": "26:04"
+                },
+                {
+                    "DISPLAY_NAME": "Adam Tynas",
+                    "TIME": "26:35"
+                },
+                {
+                    "DISPLAY_NAME": "David Bassin",
+                    "TIME": "26:39"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "QUANTIUM",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:44:46",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Will Prest",
+                    "TIME": "22:59"
+                },
+                {
+                    "DISPLAY_NAME": "Philip Lobsey",
+                    "TIME": "23:08"
+                },
+                {
+                    "DISPLAY_NAME": "LB",
+                    "TIME": "29:20"
+                },
+                {
+                    "DISPLAY_NAME": "Danica  Benni-Ridge",
+                    "TIME": "29:22"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "Hays",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:44:49",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Nathan Bartolo",
+                    "TIME": "25:36"
+                },
+                {
+                    "DISPLAY_NAME": "Jamie Wills",
+                    "TIME": "26:05"
+                },
+                {
+                    "DISPLAY_NAME": "Rahul Sharma",
+                    "TIME": "26:31"
+                },
+                {
+                    "DISPLAY_NAME": "Chris Blanz",
+                    "TIME": "26:56"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "PWC REAL ESTATE",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Accounting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:45:08",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Minh Pham",
+                    "TIME": "24:38"
+                },
+                {
+                    "DISPLAY_NAME": "Yiwei Xu",
+                    "TIME": "26:01"
+                },
+                {
+                    "DISPLAY_NAME": "Furkan Tapsiz",
+                    "TIME": "26:44"
+                },
+                {
+                    "DISPLAY_NAME": "Vincent Choo",
+                    "TIME": "27:47"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "FINISAR AUSTRALIA",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Telecommunications ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:45:10",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Mr Christopher McClay",
+                    "TIME": "24:49"
+                },
+                {
+                    "DISPLAY_NAME": "Will Chamberlain",
+                    "TIME": "25:28"
+                },
+                {
+                    "DISPLAY_NAME": "Lucas Vilela",
+                    "TIME": "26:40"
+                },
+                {
+                    "DISPLAY_NAME": "Lachlan Kennedy",
+                    "TIME": "28:38"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "L.E.K. CONSULTING",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:45:35",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Eddie Russell",
+                    "TIME": "22:58"
+                },
+                {
+                    "DISPLAY_NAME": "Jamie de Uriarte",
+                    "TIME": "24:37"
+                },
+                {
+                    "DISPLAY_NAME": "samuel macalister ",
+                    "TIME": "27:58"
+                },
+                {
+                    "DISPLAY_NAME": "Andrew Milford",
+                    "TIME": "30:06"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "AUTODESK AUSTRALIA",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:45:39",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Cameron Stone",
+                    "TIME": "24:22"
+                },
+                {
+                    "DISPLAY_NAME": "Tim Tang",
+                    "TIME": "25:15"
+                },
+                {
+                    "DISPLAY_NAME": "Melinda Robertson",
+                    "TIME": "26:57"
+                },
+                {
+                    "DISPLAY_NAME": "Claire Bushrod",
+                    "TIME": "29:05"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "WALKER WAYLAND NSW",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Accounting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:45:39",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Tolli ",
+                    "TIME": "22:52"
+                },
+                {
+                    "DISPLAY_NAME": "Trevor Van Essen",
+                    "TIME": "27:22"
+                },
+                {
+                    "DISPLAY_NAME": "Jefferson Haw",
+                    "TIME": "27:30"
+                },
+                {
+                    "DISPLAY_NAME": "Lucas Gaha",
+                    "TIME": "28:05"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "OKTA",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:45:49",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Mathew Kaley",
+                    "TIME": "21:59"
+                },
+                {
+                    "DISPLAY_NAME": "Guy Lewis",
+                    "TIME": "24:35"
+                },
+                {
+                    "DISPLAY_NAME": "Belle McKinley",
+                    "TIME": "29:37"
+                },
+                {
+                    "DISPLAY_NAME": "Peta Rogers",
+                    "TIME": "29:46"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "MCCABE CURWOOD",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Legal",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:45:57",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Bez Erfan",
+                    "TIME": "26:04"
+                },
+                {
+                    "DISPLAY_NAME": "Nathan Leonard",
+                    "TIME": "26:21"
+                },
+                {
+                    "DISPLAY_NAME": "Steve Hitchcock",
+                    "TIME": "26:59"
+                },
+                {
+                    "DISPLAY_NAME": "Allen Iu",
+                    "TIME": "27:19"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "NEOS LIFE",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:46:43",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Josh Wood",
+                    "TIME": "24:54"
+                },
+                {
+                    "DISPLAY_NAME": "ELOISE M ATKIN",
+                    "TIME": "26:36"
+                },
+                {
+                    "DISPLAY_NAME": "Alexander Cladakis",
+                    "TIME": "26:42"
+                },
+                {
+                    "DISPLAY_NAME": "Melissa Watt",
+                    "TIME": "28:41"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "NSW DEPARTMENT OF PREMIER AND CABINET",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Government",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:46:53",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Raymond Makko",
+                    "TIME": "25:19"
+                },
+                {
+                    "DISPLAY_NAME": "Tim Scanlan",
+                    "TIME": "26:39"
+                },
+                {
+                    "DISPLAY_NAME": "Michael Jools",
+                    "TIME": "27:13"
+                },
+                {
+                    "DISPLAY_NAME": "James Davidson",
+                    "TIME": "27:44"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "KARDOS SCANLAN",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Legal",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:46:55",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Vice Hazdovac",
+                    "TIME": "25:14"
+                },
+                {
+                    "DISPLAY_NAME": "Peter Crooks",
+                    "TIME": "26:14"
+                },
+                {
+                    "DISPLAY_NAME": "Chandu Kodali",
+                    "TIME": "26:26"
+                },
+                {
+                    "DISPLAY_NAME": "Elena Yusupova",
+                    "TIME": "29:18"
+                }
+            ],
+            "OVERALL_TEAM": 2,
+            "TEAM_NAME": "REA GROUP LTD",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": 1,
+            "OVERCATEGORY_TEAM": 1,
+            "OVERCATEGORY_GENDER_TEAM": 1,
+            "TEAM_TIME": "1:47:12",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Scott WIlson",
+                    "TIME": "22:27"
+                },
+                {
+                    "DISPLAY_NAME": "Bart",
+                    "TIME": "26:08"
+                },
+                {
+                    "DISPLAY_NAME": "Sathyajith Tiranagama",
+                    "TIME": "29:10"
+                },
+                {
+                    "DISPLAY_NAME": "Ben Lim",
+                    "TIME": "29:41"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "Hannover Life Re of Australasia",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:47:26",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Warwick Schneller",
+                    "TIME": "24:34"
+                },
+                {
+                    "DISPLAY_NAME": "Nathan Krieger",
+                    "TIME": "25:13"
+                },
+                {
+                    "DISPLAY_NAME": "Lauren Yelverton",
+                    "TIME": "28:03"
+                },
+                {
+                    "DISPLAY_NAME": "Irene Vides",
+                    "TIME": "30:10"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "DIMENSIONAL FUND ADVISORS",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:48:00",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Danny Yao",
+                    "TIME": "26:44"
+                },
+                {
+                    "DISPLAY_NAME": "Gordon Bevan",
+                    "TIME": "26:45"
+                },
+                {
+                    "DISPLAY_NAME": "David Garcia Madrid",
+                    "TIME": "27:22"
+                },
+                {
+                    "DISPLAY_NAME": "Daryl Ferris",
+                    "TIME": "27:23"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SUSQUEHANNA PACIFIC PTY LTD",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:48:14",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Jake Rose",
+                    "TIME": "21:32"
+                },
+                {
+                    "DISPLAY_NAME": "Eric Felipe",
+                    "TIME": "27:42"
+                },
+                {
+                    "DISPLAY_NAME": "Jonathan Buckley",
+                    "TIME": "28:20"
+                },
+                {
+                    "DISPLAY_NAME": "Michael Full",
+                    "TIME": "30:57"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "MOORE STEPHENS NSW",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Accounting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:48:31",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Hamish Martin",
+                    "TIME": "20:24"
+                },
+                {
+                    "DISPLAY_NAME": "Jackson Cunningham",
+                    "TIME": "25:57"
+                },
+                {
+                    "DISPLAY_NAME": "Adam Kharman",
+                    "TIME": "31:16"
+                },
+                {
+                    "DISPLAY_NAME": "Peter  Navea",
+                    "TIME": "31:35"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "MARKETSOFT",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:49:12",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Millie McKelvie",
+                    "TIME": "25:05"
+                },
+                {
+                    "DISPLAY_NAME": "Apel",
+                    "TIME": "25:58"
+                },
+                {
+                    "DISPLAY_NAME": "Annelise Zambesi",
+                    "TIME": "27:27"
+                },
+                {
+                    "DISPLAY_NAME": "Jayquellan ",
+                    "TIME": "31:16"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "L.E.K. CONSULTING",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:49:46",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "ELAN MILLER",
+                    "TIME": "25:23"
+                },
+                {
+                    "DISPLAY_NAME": "William Charalambous",
+                    "TIME": "27:15"
+                },
+                {
+                    "DISPLAY_NAME": "Larissa Williams",
+                    "TIME": "28:00"
+                },
+                {
+                    "DISPLAY_NAME": "Ashwini Ching",
+                    "TIME": "29:47"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "AQUALAND",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Real Estate",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:50:25",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Andrew Leon",
+                    "TIME": "23:56"
+                },
+                {
+                    "DISPLAY_NAME": "Lee Muco",
+                    "TIME": "24:14"
+                },
+                {
+                    "DISPLAY_NAME": "Jackson Parry",
+                    "TIME": "24:34"
+                },
+                {
+                    "DISPLAY_NAME": "Benjamin Mark",
+                    "TIME": "37:56"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "BELL DIRECT",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:50:40",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Bart Moye",
+                    "TIME": "22:16"
+                },
+                {
+                    "DISPLAY_NAME": "Nicholas Holt",
+                    "TIME": "26:04"
+                },
+                {
+                    "DISPLAY_NAME": "Mr Alan Thuaux",
+                    "TIME": "30:54"
+                },
+                {
+                    "DISPLAY_NAME": "Adrian Rizzi",
+                    "TIME": "31:35"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "MTAA SUPER",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:50:49",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Chris Veldman",
+                    "TIME": "25:28"
+                },
+                {
+                    "DISPLAY_NAME": "Milan Wynyard",
+                    "TIME": "27:38"
+                },
+                {
+                    "DISPLAY_NAME": "Matthew Kite",
+                    "TIME": "28:50"
+                },
+                {
+                    "DISPLAY_NAME": "Karthik Thanumoni",
+                    "TIME": "29:02"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "THE BANK OF NEW YORK MELLON",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:50:58",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Mitch Donohue",
+                    "TIME": "26:27"
+                },
+                {
+                    "DISPLAY_NAME": "Brodie Jurd",
+                    "TIME": "28:06"
+                },
+                {
+                    "DISPLAY_NAME": "Dean Crabb",
+                    "TIME": "28:10"
+                },
+                {
+                    "DISPLAY_NAME": "Alex Corsaro",
+                    "TIME": "28:18"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLAYTON UTZ",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Legal",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:51:01",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Brendon Jones",
+                    "TIME": "27:22"
+                },
+                {
+                    "DISPLAY_NAME": "DAN ROSS",
+                    "TIME": "27:28"
+                },
+                {
+                    "DISPLAY_NAME": "Richard Nutt",
+                    "TIME": "28:03"
+                },
+                {
+                    "DISPLAY_NAME": "Thomas Graham",
+                    "TIME": "28:21"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ALLIANZ",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:51:14",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Ken Ge",
+                    "TIME": "24:57"
+                },
+                {
+                    "DISPLAY_NAME": "George Melick",
+                    "TIME": "28:14"
+                },
+                {
+                    "DISPLAY_NAME": "Neil Chen",
+                    "TIME": "28:34"
+                },
+                {
+                    "DISPLAY_NAME": "Peter G",
+                    "TIME": "29:57"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "NATIONAL AUSTRALIA BANK - ASSET SERVICING",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:51:42",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Conrad Mailey",
+                    "TIME": "23:46"
+                },
+                {
+                    "DISPLAY_NAME": "Dobby",
+                    "TIME": "28:49"
+                },
+                {
+                    "DISPLAY_NAME": "Scott O'Neill",
+                    "TIME": "29:30"
+                },
+                {
+                    "DISPLAY_NAME": "Simon Coulter",
+                    "TIME": "29:48"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "THINK TANK PROPERTY FINANCE",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:51:53",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Gareth Dingle",
+                    "TIME": "24:47"
+                },
+                {
+                    "DISPLAY_NAME": "Sanjeev Sahota",
+                    "TIME": "28:03"
+                },
+                {
+                    "DISPLAY_NAME": "Ian O'Toole",
+                    "TIME": "28:52"
+                },
+                {
+                    "DISPLAY_NAME": "Kerr Bray",
+                    "TIME": "30:20"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "RF CORVAL",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Real Estate",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:52:02",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Tyler Ecob",
+                    "TIME": "25:46"
+                },
+                {
+                    "DISPLAY_NAME": "John McIlroy",
+                    "TIME": "27:26"
+                },
+                {
+                    "DISPLAY_NAME": "Tulia Mellick",
+                    "TIME": "28:39"
+                },
+                {
+                    "DISPLAY_NAME": "louise lakomy",
+                    "TIME": "30:17"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CRYSTAL WEALTH PARTNERS",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:52:08",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Nathan Tucker",
+                    "TIME": "20:47"
+                },
+                {
+                    "DISPLAY_NAME": "robert lam",
+                    "TIME": "28:45"
+                },
+                {
+                    "DISPLAY_NAME": "Evan Li",
+                    "TIME": "31:28"
+                },
+                {
+                    "DISPLAY_NAME": "Anthony Vo",
+                    "TIME": "31:43"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "COMMONWEALTH BANK OF AUSTRALIA (CPM AND DM)",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:52:43",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Rohan Sundram",
+                    "TIME": "27:30"
+                },
+                {
+                    "DISPLAY_NAME": "Fraser McLeish",
+                    "TIME": "27:40"
+                },
+                {
+                    "DISPLAY_NAME": "Glen Wellham",
+                    "TIME": "28:26"
+                },
+                {
+                    "DISPLAY_NAME": "Mark Samter",
+                    "TIME": "29:20"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "MST FINANCIAL",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:52:56",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Janis Lucis",
+                    "TIME": "27:24"
+                },
+                {
+                    "DISPLAY_NAME": "Sam Elliott",
+                    "TIME": "27:25"
+                },
+                {
+                    "DISPLAY_NAME": "Ray Godfrey",
+                    "TIME": "27:37"
+                },
+                {
+                    "DISPLAY_NAME": "Martin Mahoney",
+                    "TIME": "30:44"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "DIMENSIONAL FUND ADVISORS",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:53:10",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Sophie Paterson",
+                    "TIME": "27:18"
+                },
+                {
+                    "DISPLAY_NAME": "Amara Kane",
+                    "TIME": "28:12"
+                },
+                {
+                    "DISPLAY_NAME": "lauren elisabeth yates",
+                    "TIME": "28:30"
+                },
+                {
+                    "DISPLAY_NAME": "Jade King",
+                    "TIME": "29:19"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "Hays",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:53:19",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Rodjay Gonzales",
+                    "TIME": "26:52"
+                },
+                {
+                    "DISPLAY_NAME": "Dylan Wu",
+                    "TIME": "27:17"
+                },
+                {
+                    "DISPLAY_NAME": "Jenny Tsiamoulis",
+                    "TIME": "28:43"
+                },
+                {
+                    "DISPLAY_NAME": "Joy Walden",
+                    "TIME": "31:05"
+                }
+            ],
+            "OVERALL_TEAM": 3,
+            "TEAM_NAME": "LATITUDE EAST",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Government",
+            "OVERGENDER_TEAM": 2,
+            "OVERCATEGORY_TEAM": 1,
+            "OVERCATEGORY_GENDER_TEAM": 1,
+            "TEAM_TIME": "1:53:57",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Con Asvestas",
+                    "TIME": "27:59"
+                },
+                {
+                    "DISPLAY_NAME": "Rhys Cook",
+                    "TIME": "28:17"
+                },
+                {
+                    "DISPLAY_NAME": "Trevor lee",
+                    "TIME": "28:27"
+                },
+                {
+                    "DISPLAY_NAME": "Michael du Plessis",
+                    "TIME": "29:31"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "QUANTIUM",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:54:14",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Froilan Samonte",
+                    "TIME": "26:18"
+                },
+                {
+                    "DISPLAY_NAME": "Jack Jiang",
+                    "TIME": "26:23"
+                },
+                {
+                    "DISPLAY_NAME": "Tory Morgan",
+                    "TIME": "28:59"
+                },
+                {
+                    "DISPLAY_NAME": "Nicola Cheng",
+                    "TIME": "32:35"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "QBE GROUP",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:54:15",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Darren Waugh",
+                    "TIME": "24:51"
+                },
+                {
+                    "DISPLAY_NAME": "Danielle Grant",
+                    "TIME": "29:05"
+                },
+                {
+                    "DISPLAY_NAME": "Alexander Johnson",
+                    "TIME": "29:47"
+                },
+                {
+                    "DISPLAY_NAME": "Julie Lee",
+                    "TIME": "30:36"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "STATECOVER MUTUAL LIMITED",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:54:19",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Jack Bateman",
+                    "TIME": "25:09"
+                },
+                {
+                    "DISPLAY_NAME": "Catherine Kretzmann",
+                    "TIME": "25:10"
+                },
+                {
+                    "DISPLAY_NAME": "David Briggs",
+                    "TIME": "30:22"
+                },
+                {
+                    "DISPLAY_NAME": "Julie Harris",
+                    "TIME": "34:24"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "YOUGOV ",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:55:05",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Jason Drever",
+                    "TIME": "27:50"
+                },
+                {
+                    "DISPLAY_NAME": "Yaser Dashti",
+                    "TIME": "27:51"
+                },
+                {
+                    "DISPLAY_NAME": "Victor Meng",
+                    "TIME": "29:47"
+                },
+                {
+                    "DISPLAY_NAME": "John Lu",
+                    "TIME": "29:49"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SUSQUEHANNA PACIFIC PTY LTD",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:55:17",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Louisa Tan",
+                    "TIME": "27:40"
+                },
+                {
+                    "DISPLAY_NAME": "Claudia  Silano-Malouf",
+                    "TIME": "29:14"
+                },
+                {
+                    "DISPLAY_NAME": "Sophia Jamed",
+                    "TIME": "29:14"
+                },
+                {
+                    "DISPLAY_NAME": "Eryn Chapman",
+                    "TIME": "29:28"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLAYTON UTZ",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Legal",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:55:36",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Joao Lourenco",
+                    "TIME": "25:52"
+                },
+                {
+                    "DISPLAY_NAME": "Callum Rutherford",
+                    "TIME": "25:56"
+                },
+                {
+                    "DISPLAY_NAME": "Tobias Fielitz",
+                    "TIME": "31:23"
+                },
+                {
+                    "DISPLAY_NAME": "sushovan podder",
+                    "TIME": "33:51"
+                }
+            ],
+            "OVERALL_TEAM": 4,
+            "TEAM_NAME": "ROKT",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": 2,
+            "OVERCATEGORY_TEAM": 2,
+            "OVERCATEGORY_GENDER_TEAM": 1,
+            "TEAM_TIME": "1:57:02",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Joshua Krechman",
+                    "TIME": "28:59"
+                },
+                {
+                    "DISPLAY_NAME": "Connor Mulholland",
+                    "TIME": "29:01"
+                },
+                {
+                    "DISPLAY_NAME": "Stuart Kovacs",
+                    "TIME": "29:23"
+                },
+                {
+                    "DISPLAY_NAME": "Lee McGurren",
+                    "TIME": "29:40"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLAYTON UTZ",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Legal",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:57:03",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Jason Wilson",
+                    "TIME": "27:30"
+                },
+                {
+                    "DISPLAY_NAME": "Dheeraj Sharma",
+                    "TIME": "28:37"
+                },
+                {
+                    "DISPLAY_NAME": "Chris Hallett",
+                    "TIME": "30:07"
+                },
+                {
+                    "DISPLAY_NAME": "Nicolas Welaratne",
+                    "TIME": "31:00"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLASS LTD",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:57:14",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Peter Talikowski",
+                    "TIME": "25:39"
+                },
+                {
+                    "DISPLAY_NAME": "Young Kyun (James) Kim",
+                    "TIME": "26:24"
+                },
+                {
+                    "DISPLAY_NAME": "Nathan Napier",
+                    "TIME": "31:02"
+                },
+                {
+                    "DISPLAY_NAME": "Matthew Vallis",
+                    "TIME": "34:21"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "WINDTECH CONSULTANTS",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Engineering/Architecture",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:57:26",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Amy Brown",
+                    "TIME": "28:59"
+                },
+                {
+                    "DISPLAY_NAME": "Camilla Collins",
+                    "TIME": "29:09"
+                },
+                {
+                    "DISPLAY_NAME": "Chloe Stevenson",
+                    "TIME": "29:47"
+                },
+                {
+                    "DISPLAY_NAME": "Josephine Khalil",
+                    "TIME": "29:51"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "NSW DEPARTMENT OF PREMIER AND CABINET",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Government",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:57:46",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Jamal Fairbrother",
+                    "TIME": "24:23"
+                },
+                {
+                    "DISPLAY_NAME": "James Tindale",
+                    "TIME": "30:44"
+                },
+                {
+                    "DISPLAY_NAME": "Damien Flint",
+                    "TIME": "31:29"
+                },
+                {
+                    "DISPLAY_NAME": "Stuart Barrie",
+                    "TIME": "31:49"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ACADEMY TRAVEL",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Airlines/Travel Related",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:58:25",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Rajesh Joseph",
+                    "TIME": "29:16"
+                },
+                {
+                    "DISPLAY_NAME": "Marten Ferwerda",
+                    "TIME": "29:44"
+                },
+                {
+                    "DISPLAY_NAME": "Craig Cameron",
+                    "TIME": "29:56"
+                },
+                {
+                    "DISPLAY_NAME": "Pierre Delepine",
+                    "TIME": "30:04"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "FINISAR AUSTRALIA",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Telecommunications ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:59:00",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Raymond Khau",
+                    "TIME": "27:44"
+                },
+                {
+                    "DISPLAY_NAME": "Philip Liscom",
+                    "TIME": "27:45"
+                },
+                {
+                    "DISPLAY_NAME": "Bec Humphris",
+                    "TIME": "28:27"
+                },
+                {
+                    "DISPLAY_NAME": "Ashleigh McLarnon",
+                    "TIME": "35:10"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "PWC RISK CONSULTING",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:59:06",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Sophie Dutton",
+                    "TIME": "28:06"
+                },
+                {
+                    "DISPLAY_NAME": "Anna Condell",
+                    "TIME": "28:26"
+                },
+                {
+                    "DISPLAY_NAME": "Lynnette Hoffman",
+                    "TIME": "29:40"
+                },
+                {
+                    "DISPLAY_NAME": "Lea Barclay",
+                    "TIME": "33:08"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "MEDIBANK",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Health Related/Hospitals",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:59:20",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "ANTHONY GATOME",
+                    "TIME": "23:39"
+                },
+                {
+                    "DISPLAY_NAME": "Denis Golim",
+                    "TIME": "23:44"
+                },
+                {
+                    "DISPLAY_NAME": "Susan Setiawan",
+                    "TIME": "35:47"
+                },
+                {
+                    "DISPLAY_NAME": "Carmen Ho",
+                    "TIME": "36:14"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ORIGIN ENERGY",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Petroleum Refining/Crude Oil Products/Gas/Mining",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "1:59:24",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Lucas J.V. Godefrooij",
+                    "TIME": "24:17"
+                },
+                {
+                    "DISPLAY_NAME": "Charmaine Chee",
+                    "TIME": "30:40"
+                },
+                {
+                    "DISPLAY_NAME": "Barbara Heemelaar",
+                    "TIME": "32:17"
+                },
+                {
+                    "DISPLAY_NAME": "Max Cheung",
+                    "TIME": "33:00"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ABN AMRO CLEARING SYDNEY PTY LTD",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:00:14",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Phin Wern Ting",
+                    "TIME": "25:37"
+                },
+                {
+                    "DISPLAY_NAME": "Rebecca Gelling ",
+                    "TIME": "27:37"
+                },
+                {
+                    "DISPLAY_NAME": "karine seguin",
+                    "TIME": "32:50"
+                },
+                {
+                    "DISPLAY_NAME": "Carlene Dring",
+                    "TIME": "34:23"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "Hannover Life Re of Australasia",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:00:27",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Sarah Boyle",
+                    "TIME": "27:49"
+                },
+                {
+                    "DISPLAY_NAME": "Sonia Kozevski",
+                    "TIME": "28:49"
+                },
+                {
+                    "DISPLAY_NAME": "Amber Chapman",
+                    "TIME": "31:15"
+                },
+                {
+                    "DISPLAY_NAME": "Eugenia Nam",
+                    "TIME": "32:35"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "THE BANK OF NEW YORK MELLON",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:00:28",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Helena Eastham",
+                    "TIME": "20:50"
+                },
+                {
+                    "DISPLAY_NAME": "Liz Tattersall",
+                    "TIME": "31:21"
+                },
+                {
+                    "DISPLAY_NAME": "Cindy Pismiris",
+                    "TIME": "33:29"
+                },
+                {
+                    "DISPLAY_NAME": "Tan",
+                    "TIME": "34:53"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "WESTERN UNION",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:00:33",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Andre Marais",
+                    "TIME": "29:38"
+                },
+                {
+                    "DISPLAY_NAME": "Raymond Chan",
+                    "TIME": "30:11"
+                },
+                {
+                    "DISPLAY_NAME": "Marcelo Nagy",
+                    "TIME": "30:22"
+                },
+                {
+                    "DISPLAY_NAME": "Mark Egan",
+                    "TIME": "30:23"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "QUANTIUM",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:00:34",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "David Bell",
+                    "TIME": "25:53"
+                },
+                {
+                    "DISPLAY_NAME": "Chris Yang",
+                    "TIME": "25:59"
+                },
+                {
+                    "DISPLAY_NAME": "Beatrice Tsu-Jones",
+                    "TIME": "32:49"
+                },
+                {
+                    "DISPLAY_NAME": "Samantha Hever",
+                    "TIME": "36:04"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ROYAL BANK OF CANADA",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:00:45",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Ilah Chung",
+                    "TIME": "28:32"
+                },
+                {
+                    "DISPLAY_NAME": "Caroline Masters",
+                    "TIME": "28:53"
+                },
+                {
+                    "DISPLAY_NAME": "ELOISE STARR",
+                    "TIME": "31:50"
+                },
+                {
+                    "DISPLAY_NAME": "Jill Bell",
+                    "TIME": "32:30"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ROYAL BANK OF CANADA",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:01:45",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Matt Kilburn",
+                    "TIME": "27:14"
+                },
+                {
+                    "DISPLAY_NAME": "David Barton",
+                    "TIME": "29:19"
+                },
+                {
+                    "DISPLAY_NAME": "Greg Southey",
+                    "TIME": "31:14"
+                },
+                {
+                    "DISPLAY_NAME": "Matthew Davey",
+                    "TIME": "34:20"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLUB PLUS SUPER",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:02:07",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Chris Strickland",
+                    "TIME": "24:55"
+                },
+                {
+                    "DISPLAY_NAME": "Les Clewlow",
+                    "TIME": "27:52"
+                },
+                {
+                    "DISPLAY_NAME": "Benjamin Cheng",
+                    "TIME": "30:14"
+                },
+                {
+                    "DISPLAY_NAME": "Boda Kang",
+                    "TIME": "39:15"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "LACIMA",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:02:16",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Frances Carney",
+                    "TIME": "28:18"
+                },
+                {
+                    "DISPLAY_NAME": "Chloe Bruck",
+                    "TIME": "29:51"
+                },
+                {
+                    "DISPLAY_NAME": "Morgan Hart",
+                    "TIME": "32:02"
+                },
+                {
+                    "DISPLAY_NAME": "Mia Lian",
+                    "TIME": "32:12"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "PWC REAL ESTATE",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Accounting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:02:23",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Jen Baxter",
+                    "TIME": "29:48"
+                },
+                {
+                    "DISPLAY_NAME": "Nick Madgwick",
+                    "TIME": "30:39"
+                },
+                {
+                    "DISPLAY_NAME": "Svea Viskovich",
+                    "TIME": "30:41"
+                },
+                {
+                    "DISPLAY_NAME": "Chris Pratt",
+                    "TIME": "31:49"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CBUS PROPERTY",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Real Estate",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:02:57",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Joel von Thien",
+                    "TIME": "29:49"
+                },
+                {
+                    "DISPLAY_NAME": "William Gibson",
+                    "TIME": "30:34"
+                },
+                {
+                    "DISPLAY_NAME": "Mark Friezer",
+                    "TIME": "30:47"
+                },
+                {
+                    "DISPLAY_NAME": "Jonathan Selby",
+                    "TIME": "31:53"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLAYTON UTZ",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Legal",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:03:03",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Gemma Jacklyn",
+                    "TIME": "25:03"
+                },
+                {
+                    "DISPLAY_NAME": "Laura-Jane Liau",
+                    "TIME": "28:07"
+                },
+                {
+                    "DISPLAY_NAME": "Albert Kerr",
+                    "TIME": "32:11"
+                },
+                {
+                    "DISPLAY_NAME": "Chris Edwards",
+                    "TIME": "37:45"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "QUANTIUM",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:03:06",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Patrick Millwood",
+                    "TIME": "28:43"
+                },
+                {
+                    "DISPLAY_NAME": "Brian Liu",
+                    "TIME": "31:06"
+                },
+                {
+                    "DISPLAY_NAME": "Kurtis Aberhart",
+                    "TIME": "31:11"
+                },
+                {
+                    "DISPLAY_NAME": "Asif Narejo",
+                    "TIME": "32:23"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "PWC RISK CONSULTING",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:03:23",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "corban ruddick",
+                    "TIME": "30:14"
+                },
+                {
+                    "DISPLAY_NAME": "Victor Nguyen",
+                    "TIME": "30:42"
+                },
+                {
+                    "DISPLAY_NAME": "Soma Bockelman",
+                    "TIME": "31:04"
+                },
+                {
+                    "DISPLAY_NAME": "Iain Morris",
+                    "TIME": "31:38"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SUSQUEHANNA PACIFIC PTY LTD",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:03:38",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Petra M",
+                    "TIME": "29:29"
+                },
+                {
+                    "DISPLAY_NAME": "Edwina Wong",
+                    "TIME": "31:13"
+                },
+                {
+                    "DISPLAY_NAME": "Ashley Quek",
+                    "TIME": "31:14"
+                },
+                {
+                    "DISPLAY_NAME": "Kim Child",
+                    "TIME": "31:52"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLAYTON UTZ",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Legal",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:03:48",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "S Stierli",
+                    "TIME": "29:08"
+                },
+                {
+                    "DISPLAY_NAME": "Nicholas Higgins",
+                    "TIME": "31:15"
+                },
+                {
+                    "DISPLAY_NAME": "David Brine",
+                    "TIME": "31:16"
+                },
+                {
+                    "DISPLAY_NAME": "Thomas Suarez",
+                    "TIME": "33:28"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "INTERBANK (SYDNEY) AUSTRALIA",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:05:07",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Andrew Corder",
+                    "TIME": "26:50"
+                },
+                {
+                    "DISPLAY_NAME": "Max Griguol",
+                    "TIME": "26:58"
+                },
+                {
+                    "DISPLAY_NAME": "Sree Sasidharan",
+                    "TIME": "35:55"
+                },
+                {
+                    "DISPLAY_NAME": "Marina Vlahovic",
+                    "TIME": "35:56"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "PWC RISK ASSURANCE",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Accounting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:05:39",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Andrew  Loa ",
+                    "TIME": "29:24"
+                },
+                {
+                    "DISPLAY_NAME": "Ogie Celestino",
+                    "TIME": "30:13"
+                },
+                {
+                    "DISPLAY_NAME": "Peter Fryer",
+                    "TIME": "30:26"
+                },
+                {
+                    "DISPLAY_NAME": "Jamie Spiers",
+                    "TIME": "35:58"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "AXA XL",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:06:01",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Henry Zhu",
+                    "TIME": "30:58"
+                },
+                {
+                    "DISPLAY_NAME": "ABHISHEK NIGAM",
+                    "TIME": "31:29"
+                },
+                {
+                    "DISPLAY_NAME": "Alexander Good",
+                    "TIME": "31:52"
+                },
+                {
+                    "DISPLAY_NAME": "Michael O'Loughlin",
+                    "TIME": "32:05"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "QUANTIUM",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:06:24",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Karen Smith",
+                    "TIME": "28:16"
+                },
+                {
+                    "DISPLAY_NAME": "Emily  Burgess",
+                    "TIME": "30:24"
+                },
+                {
+                    "DISPLAY_NAME": "Elizabeth Leung",
+                    "TIME": "32:10"
+                },
+                {
+                    "DISPLAY_NAME": "Yvette Edgell",
+                    "TIME": "36:32"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CROWN SOLICITORS OFFICE ",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Government",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:07:22",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Lauren Hutchinson",
+                    "TIME": "30:12"
+                },
+                {
+                    "DISPLAY_NAME": "Kerrie-Ann Barrett",
+                    "TIME": "30:18"
+                },
+                {
+                    "DISPLAY_NAME": "Nathalie Van Nueten",
+                    "TIME": "31:45"
+                },
+                {
+                    "DISPLAY_NAME": "Julia Nguyen",
+                    "TIME": "35:31"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "PWC RISK ASSURANCE",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Accounting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:07:46",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Francis Tien",
+                    "TIME": "31:41"
+                },
+                {
+                    "DISPLAY_NAME": "Davor Obradovic",
+                    "TIME": "32:07"
+                },
+                {
+                    "DISPLAY_NAME": "Jianwei Su",
+                    "TIME": "32:12"
+                },
+                {
+                    "DISPLAY_NAME": "Peter Wong",
+                    "TIME": "32:41"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SUSQUEHANNA PACIFIC PTY LTD",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:08:41",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Aris Stavrou",
+                    "TIME": "27:10"
+                },
+                {
+                    "DISPLAY_NAME": "Kevin Bai",
+                    "TIME": "27:35"
+                },
+                {
+                    "DISPLAY_NAME": "Claire Arthur",
+                    "TIME": "34:09"
+                },
+                {
+                    "DISPLAY_NAME": "Dawn Manning",
+                    "TIME": "40:18"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "QBE GROUP",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:09:12",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Nara Barameetham",
+                    "TIME": "30:38"
+                },
+                {
+                    "DISPLAY_NAME": "Jayden McDonogh",
+                    "TIME": "32:50"
+                },
+                {
+                    "DISPLAY_NAME": "Luke  Ellershaw",
+                    "TIME": "32:58"
+                },
+                {
+                    "DISPLAY_NAME": "Matt Knight",
+                    "TIME": "33:38"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ALLIANZ",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:10:04",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Paul Gennari",
+                    "TIME": "25:57"
+                },
+                {
+                    "DISPLAY_NAME": "Trent Robinson",
+                    "TIME": "28:10"
+                },
+                {
+                    "DISPLAY_NAME": "Sheridan Masters",
+                    "TIME": "33:16"
+                },
+                {
+                    "DISPLAY_NAME": "Ella Cantori",
+                    "TIME": "43:20"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SOVEREIGN PRIVATE",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Accounting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:10:43",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "BP",
+                    "TIME": "27:44"
+                },
+                {
+                    "DISPLAY_NAME": "Rohan Laxmanalal",
+                    "TIME": "33:21"
+                },
+                {
+                    "DISPLAY_NAME": "Thomas J. Price",
+                    "TIME": "33:22"
+                },
+                {
+                    "DISPLAY_NAME": "Peter Coyle",
+                    "TIME": "36:27"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "FINANCIAL & ENERGY EXCHANGE LIMITED",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:10:54",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Joshua Freedman",
+                    "TIME": "26:27"
+                },
+                {
+                    "DISPLAY_NAME": "Steven Jones",
+                    "TIME": "31:29"
+                },
+                {
+                    "DISPLAY_NAME": "Kozue Ikeda",
+                    "TIME": "35:56"
+                },
+                {
+                    "DISPLAY_NAME": "Maria Harkin",
+                    "TIME": "37:09"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "WESTERN UNION",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:11:01",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Michael Cistulli",
+                    "TIME": "25:22"
+                },
+                {
+                    "DISPLAY_NAME": "Joe Croguennec",
+                    "TIME": "25:30"
+                },
+                {
+                    "DISPLAY_NAME": "Jack Mazaraki",
+                    "TIME": "25:31"
+                },
+                {
+                    "DISPLAY_NAME": "Daniel Baum",
+                    "TIME": "55:05"
+                }
+            ],
+            "OVERALL_TEAM": 5,
+            "TEAM_NAME": "ELKIEM",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": 3,
+            "OVERCATEGORY_TEAM": 2,
+            "OVERCATEGORY_GENDER_TEAM": 2,
+            "TEAM_TIME": "2:11:28",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Becks",
+                    "TIME": "30:31"
+                },
+                {
+                    "DISPLAY_NAME": "Charlotte Tapp",
+                    "TIME": "32:31"
+                },
+                {
+                    "DISPLAY_NAME": "EMILY ANDREWS",
+                    "TIME": "34:22"
+                },
+                {
+                    "DISPLAY_NAME": "Natasha Hawthorne",
+                    "TIME": "34:43"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "PACIFIC EQUITY PARTNERS ",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:12:07",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Chris Horowitz",
+                    "TIME": "28:30"
+                },
+                {
+                    "DISPLAY_NAME": "Kerry Johnson",
+                    "TIME": "33:40"
+                },
+                {
+                    "DISPLAY_NAME": "Tara B Karki",
+                    "TIME": "33:50"
+                },
+                {
+                    "DISPLAY_NAME": "Lee-Anne McCormack",
+                    "TIME": "36:16"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "BLUESTAR DISPLAY",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Communications",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:12:16",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Catherine Macarounas",
+                    "TIME": "32:25"
+                },
+                {
+                    "DISPLAY_NAME": "Sophia Giardini",
+                    "TIME": "32:29"
+                },
+                {
+                    "DISPLAY_NAME": "Jennifer Zhan",
+                    "TIME": "33:12"
+                },
+                {
+                    "DISPLAY_NAME": "Trina Hain",
+                    "TIME": "34:57"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLAYTON UTZ",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Legal",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:13:03",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Susan Thompson",
+                    "TIME": "31:34"
+                },
+                {
+                    "DISPLAY_NAME": "annette pitman",
+                    "TIME": "33:12"
+                },
+                {
+                    "DISPLAY_NAME": "Andrea Ulbrick",
+                    "TIME": "33:24"
+                },
+                {
+                    "DISPLAY_NAME": "Julia Pucci",
+                    "TIME": "35:33"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "DEPARTMENT OF PREMIER AND CABINET - CREATE NSW",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Government",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:13:43",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Andrew Iles",
+                    "TIME": "27:53"
+                },
+                {
+                    "DISPLAY_NAME": "William Stanwell",
+                    "TIME": "31:04"
+                },
+                {
+                    "DISPLAY_NAME": "Franci",
+                    "TIME": "35:50"
+                },
+                {
+                    "DISPLAY_NAME": "Luna Zuo",
+                    "TIME": "39:04"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "PWC REAL ESTATE",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Accounting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:13:51",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Shubin  Hu",
+                    "TIME": "33:15"
+                },
+                {
+                    "DISPLAY_NAME": "Kushal Singh",
+                    "TIME": "33:30"
+                },
+                {
+                    "DISPLAY_NAME": "Lars Olsson",
+                    "TIME": "33:31"
+                },
+                {
+                    "DISPLAY_NAME": "Darren Lai",
+                    "TIME": "33:51"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SUSQUEHANNA PACIFIC PTY LTD",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:14:07",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Philippa Duncanson",
+                    "TIME": "29:42"
+                },
+                {
+                    "DISPLAY_NAME": "Chloe O'Toole",
+                    "TIME": "29:48"
+                },
+                {
+                    "DISPLAY_NAME": "Noella Tsang",
+                    "TIME": "36:21"
+                },
+                {
+                    "DISPLAY_NAME": "Maria Verner",
+                    "TIME": "38:31"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "RF CORVAL",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Real Estate",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:14:22",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Elsie",
+                    "TIME": "29:52"
+                },
+                {
+                    "DISPLAY_NAME": "Danielle Barrasso",
+                    "TIME": "33:29"
+                },
+                {
+                    "DISPLAY_NAME": "Lorna Lay",
+                    "TIME": "33:58"
+                },
+                {
+                    "DISPLAY_NAME": "Lauren Ryan",
+                    "TIME": "38:07"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "THINK TANK PROPERTY FINANCE",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:15:26",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Andrew Roberts",
+                    "TIME": "29:38"
+                },
+                {
+                    "DISPLAY_NAME": "Stabilo BOSS",
+                    "TIME": "34:00"
+                },
+                {
+                    "DISPLAY_NAME": "Sarah Taylor",
+                    "TIME": "35:53"
+                },
+                {
+                    "DISPLAY_NAME": "Kenna Tso",
+                    "TIME": "36:00"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CROWN SOLICITORS OFFICE ",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Government",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:15:31",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Tara Nguyen",
+                    "TIME": "32:34"
+                },
+                {
+                    "DISPLAY_NAME": "Jasmine Martinez",
+                    "TIME": "33:50"
+                },
+                {
+                    "DISPLAY_NAME": "Eugena Chen",
+                    "TIME": "34:36"
+                },
+                {
+                    "DISPLAY_NAME": "Carmel Jeanes",
+                    "TIME": "34:55"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ORIGIN ENERGY",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Petroleum Refining/Crude Oil Products/Gas/Mining",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:15:55",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "nigel stewart",
+                    "TIME": "30:55"
+                },
+                {
+                    "DISPLAY_NAME": "Derick Thai",
+                    "TIME": "31:26"
+                },
+                {
+                    "DISPLAY_NAME": "Jacqueline Edwards",
+                    "TIME": "36:38"
+                },
+                {
+                    "DISPLAY_NAME": "Eleanor Kirkpatrick",
+                    "TIME": "36:58"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "DIMENSIONAL FUND ADVISORS",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:15:57",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "James Bisinella",
+                    "TIME": "25:30"
+                },
+                {
+                    "DISPLAY_NAME": "Reece Davies",
+                    "TIME": "25:41"
+                },
+                {
+                    "DISPLAY_NAME": "Yeuks Kadzere",
+                    "TIME": "34:43"
+                },
+                {
+                    "DISPLAY_NAME": "Stefi Schor",
+                    "TIME": "51:24"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "MILES ADVISORY PARTNERS",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:17:18",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Robin Jordan",
+                    "TIME": "30:56"
+                },
+                {
+                    "DISPLAY_NAME": "Matt Jay",
+                    "TIME": "34:49"
+                },
+                {
+                    "DISPLAY_NAME": "Adrian Bunter",
+                    "TIME": "34:49"
+                },
+                {
+                    "DISPLAY_NAME": "Bob Jin",
+                    "TIME": "37:04"
+                }
+            ],
+            "OVERALL_TEAM": 6,
+            "TEAM_NAME": "VENTURE CONSULTING",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": 4,
+            "OVERCATEGORY_TEAM": 3,
+            "OVERCATEGORY_GENDER_TEAM": 3,
+            "TEAM_TIME": "2:17:38",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Theo Wilkinson ",
+                    "TIME": "24:14"
+                },
+                {
+                    "DISPLAY_NAME": "Lotti Wilkinson",
+                    "TIME": "27:16"
+                },
+                {
+                    "DISPLAY_NAME": "Olivia Page",
+                    "TIME": "37:50"
+                },
+                {
+                    "DISPLAY_NAME": "Justin Tse",
+                    "TIME": "48:45"
+                }
+            ],
+            "OVERALL_TEAM": 7,
+            "TEAM_NAME": "CITY PLAN ",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": 3,
+            "OVERCATEGORY_TEAM": 4,
+            "OVERCATEGORY_GENDER_TEAM": 1,
+            "TEAM_TIME": "2:18:05",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Lisa Fowler",
+                    "TIME": "33:12"
+                },
+                {
+                    "DISPLAY_NAME": "Priscilla Bayly",
+                    "TIME": "33:24"
+                },
+                {
+                    "DISPLAY_NAME": "Veronika K ",
+                    "TIME": "35:43"
+                },
+                {
+                    "DISPLAY_NAME": "Lisa de Franck",
+                    "TIME": "36:08"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CRYSTAL WEALTH PARTNERS",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:18:27",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Alex Jessep",
+                    "TIME": "29:52"
+                },
+                {
+                    "DISPLAY_NAME": "Vinu Nair",
+                    "TIME": "31:29"
+                },
+                {
+                    "DISPLAY_NAME": "Tiffany Milliss",
+                    "TIME": "38:01"
+                },
+                {
+                    "DISPLAY_NAME": "Selvini Jayaseelan",
+                    "TIME": "39:28"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "THE BANK OF NEW YORK MELLON",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:18:50",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Paul Cheal",
+                    "TIME": "24:12"
+                },
+                {
+                    "DISPLAY_NAME": "Craig Morris",
+                    "TIME": "31:16"
+                },
+                {
+                    "DISPLAY_NAME": "Eric Robledo Fuentes",
+                    "TIME": "34:05"
+                },
+                {
+                    "DISPLAY_NAME": "Kieron Stevenson",
+                    "TIME": "49:17"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "HONNER",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Advertising/Public Relations",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:18:50",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Maike Muth",
+                    "TIME": "28:54"
+                },
+                {
+                    "DISPLAY_NAME": "Zoe Wise",
+                    "TIME": "29:02"
+                },
+                {
+                    "DISPLAY_NAME": "Rebecca Ricketts",
+                    "TIME": "36:29"
+                },
+                {
+                    "DISPLAY_NAME": "Beyan Bao",
+                    "TIME": "44:40"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLASS LTD",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:19:05",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Sarah Skelton",
+                    "TIME": "29:42"
+                },
+                {
+                    "DISPLAY_NAME": "Silipa Paea",
+                    "TIME": "33:40"
+                },
+                {
+                    "DISPLAY_NAME": "Emily Rose Peden",
+                    "TIME": "34:20"
+                },
+                {
+                    "DISPLAY_NAME": "Natalie Allen",
+                    "TIME": "41:26"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "AXA XL",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:19:08",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Stephen Timbrell",
+                    "TIME": "27:59"
+                },
+                {
+                    "DISPLAY_NAME": "MARK HEARNDEN",
+                    "TIME": "29:59"
+                },
+                {
+                    "DISPLAY_NAME": "Henry Wong",
+                    "TIME": "40:48"
+                },
+                {
+                    "DISPLAY_NAME": "Siba Patro",
+                    "TIME": "40:48"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "MEDIBANK",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Health Related/Hospitals",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:19:34",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Helen McHugh",
+                    "TIME": "34:52"
+                },
+                {
+                    "DISPLAY_NAME": "Samantha Beattie",
+                    "TIME": "34:56"
+                },
+                {
+                    "DISPLAY_NAME": "Liliana Freeman",
+                    "TIME": "34:56"
+                },
+                {
+                    "DISPLAY_NAME": "Elisa Blakers",
+                    "TIME": "35:00"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "MCCABE CURWOOD",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Legal",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:19:44",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Jacqueline Lee",
+                    "TIME": "26:09"
+                },
+                {
+                    "DISPLAY_NAME": "Alexandra",
+                    "TIME": "32:43"
+                },
+                {
+                    "DISPLAY_NAME": "Christine",
+                    "TIME": "37:25"
+                },
+                {
+                    "DISPLAY_NAME": "Eleanor Lai",
+                    "TIME": "44:47"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "MAPLE-BROWN ABBOTT",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:21:04",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Graham Penn",
+                    "TIME": "34:32"
+                },
+                {
+                    "DISPLAY_NAME": "Sanjay",
+                    "TIME": "34:56"
+                },
+                {
+                    "DISPLAY_NAME": "Gerry Jung",
+                    "TIME": "35:32"
+                },
+                {
+                    "DISPLAY_NAME": "Victor Wong",
+                    "TIME": "37:50"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SUSQUEHANNA PACIFIC PTY LTD",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:22:50",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Danielle De Laine",
+                    "TIME": "33:13"
+                },
+                {
+                    "DISPLAY_NAME": "Miyu Haga",
+                    "TIME": "36:05"
+                },
+                {
+                    "DISPLAY_NAME": "Annalise Christoforatos",
+                    "TIME": "37:14"
+                },
+                {
+                    "DISPLAY_NAME": "Caroline Wiemann",
+                    "TIME": "37:15"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "OKTA",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:23:47",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Kristoff Clark",
+                    "TIME": "27:53"
+                },
+                {
+                    "DISPLAY_NAME": "George John",
+                    "TIME": "30:37"
+                },
+                {
+                    "DISPLAY_NAME": "Matthew Stacy",
+                    "TIME": "30:52"
+                },
+                {
+                    "DISPLAY_NAME": "Simon Walkom",
+                    "TIME": "54:33"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "DEPARTMENT OF PREMIER AND CABINET - CREATE NSW",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Government",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:23:55",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Susie Bell",
+                    "TIME": "32:01"
+                },
+                {
+                    "DISPLAY_NAME": "Jessica Effeney",
+                    "TIME": "33:39"
+                },
+                {
+                    "DISPLAY_NAME": "Rebecca Searl",
+                    "TIME": "38:29"
+                },
+                {
+                    "DISPLAY_NAME": "Jacqui Coleman",
+                    "TIME": "40:09"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "HONNER",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Advertising/Public Relations",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:24:18",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Katie Chong",
+                    "TIME": "31:47"
+                },
+                {
+                    "DISPLAY_NAME": "Lloyd Jadulco",
+                    "TIME": "34:58"
+                },
+                {
+                    "DISPLAY_NAME": "Nitesh Gulati",
+                    "TIME": "37:49"
+                },
+                {
+                    "DISPLAY_NAME": "QIN LIU",
+                    "TIME": "40:16"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "FINISAR AUSTRALIA",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Telecommunications ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:24:50",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "David Murphy",
+                    "TIME": "24:59"
+                },
+                {
+                    "DISPLAY_NAME": "James Coburn",
+                    "TIME": "28:33"
+                },
+                {
+                    "DISPLAY_NAME": "Zip Zap Zoe",
+                    "TIME": "41:01"
+                },
+                {
+                    "DISPLAY_NAME": "Louise Cooper",
+                    "TIME": "52:14"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "AIRTRUNK OPERATING PTY LTD",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:26:47",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Claydz#17",
+                    "TIME": "28:40"
+                },
+                {
+                    "DISPLAY_NAME": "Thomas Harvey",
+                    "TIME": "33:03"
+                },
+                {
+                    "DISPLAY_NAME": "Chessman Wekwete",
+                    "TIME": "36:53"
+                },
+                {
+                    "DISPLAY_NAME": "Aloysius Lim",
+                    "TIME": "48:33"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "GEN RE",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:27:09",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Lynsey Jenkins",
+                    "TIME": "32:30"
+                },
+                {
+                    "DISPLAY_NAME": "Rebecca Fussell",
+                    "TIME": "36:28"
+                },
+                {
+                    "DISPLAY_NAME": "JACKIE COLONNELLI",
+                    "TIME": "38:22"
+                },
+                {
+                    "DISPLAY_NAME": "Cassandra Kean",
+                    "TIME": "40:48"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ACADEMY TRAVEL",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Airlines/Travel Related",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:28:08",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Abbey Schott",
+                    "TIME": "29:45"
+                },
+                {
+                    "DISPLAY_NAME": "Joshua Bloom",
+                    "TIME": "30:02"
+                },
+                {
+                    "DISPLAY_NAME": "Paul Ambrose",
+                    "TIME": "32:23"
+                },
+                {
+                    "DISPLAY_NAME": "Laura Shaw",
+                    "TIME": "59:04"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "EISS",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:31:14",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Terry Behan",
+                    "TIME": "26:20"
+                },
+                {
+                    "DISPLAY_NAME": "Robin EJ",
+                    "TIME": "27:59"
+                },
+                {
+                    "DISPLAY_NAME": "Daniella  Brandy",
+                    "TIME": "41:53"
+                },
+                {
+                    "DISPLAY_NAME": "Athaliah Baldock",
+                    "TIME": "55:17"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "AXA XL",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:31:29",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Donny Jian",
+                    "TIME": "34:31"
+                },
+                {
+                    "DISPLAY_NAME": "Ronnie Zheng",
+                    "TIME": "37:03"
+                },
+                {
+                    "DISPLAY_NAME": "Erol Kilic",
+                    "TIME": "39:15"
+                },
+                {
+                    "DISPLAY_NAME": "Zahir Patel",
+                    "TIME": "41:54"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLASS LTD",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:32:43",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Tania Du Plessis",
+                    "TIME": "30:32"
+                },
+                {
+                    "DISPLAY_NAME": "Norma Clifford",
+                    "TIME": "36:18"
+                },
+                {
+                    "DISPLAY_NAME": "Kayla Mantikos",
+                    "TIME": "42:23"
+                },
+                {
+                    "DISPLAY_NAME": "Allison Badajos",
+                    "TIME": "43:53"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "NEOS LIFE",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:33:06",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Bhesh Thapa",
+                    "TIME": "32:14"
+                },
+                {
+                    "DISPLAY_NAME": "David Nolan",
+                    "TIME": "33:33"
+                },
+                {
+                    "DISPLAY_NAME": "Pushkar",
+                    "TIME": "41:24"
+                },
+                {
+                    "DISPLAY_NAME": "Julian Deza ",
+                    "TIME": "46:36"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "THINK TANK PROPERTY FINANCE",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:33:47",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Ellen Waterman",
+                    "TIME": "24:31"
+                },
+                {
+                    "DISPLAY_NAME": "Nelly Maleva",
+                    "TIME": "37:51"
+                },
+                {
+                    "DISPLAY_NAME": "Sue Wills",
+                    "TIME": "38:53"
+                },
+                {
+                    "DISPLAY_NAME": "Charmaine Batulan",
+                    "TIME": "57:19"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "RESERVE BANK OF AUSTRALIA",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Government",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:38:34",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Damien Smith",
+                    "TIME": "31:47"
+                },
+                {
+                    "DISPLAY_NAME": "Jin Jeong",
+                    "TIME": "32:47"
+                },
+                {
+                    "DISPLAY_NAME": "Sha Sha",
+                    "TIME": "46:44"
+                },
+                {
+                    "DISPLAY_NAME": "Natalie Wewer",
+                    "TIME": "49:22"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLASS LTD",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:40:40",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Danielle Sandys",
+                    "TIME": "36:57"
+                },
+                {
+                    "DISPLAY_NAME": "Natalie Pellegrini",
+                    "TIME": "39:37"
+                },
+                {
+                    "DISPLAY_NAME": "Jessica  Mackenzie",
+                    "TIME": "39:53"
+                },
+                {
+                    "DISPLAY_NAME": "Katherine  Agapitos",
+                    "TIME": "44:19"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "CLAYTON UTZ",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Legal",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:40:46",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Deepu Paul",
+                    "TIME": "39:30"
+                },
+                {
+                    "DISPLAY_NAME": "Andrew Young-Thompson",
+                    "TIME": "40:01"
+                },
+                {
+                    "DISPLAY_NAME": "Jagath DeSilva",
+                    "TIME": "40:11"
+                },
+                {
+                    "DISPLAY_NAME": "Brett ",
+                    "TIME": "41:14"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SUSQUEHANNA PACIFIC PTY LTD",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:40:56",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Benn Vicic",
+                    "TIME": "30:50"
+                },
+                {
+                    "DISPLAY_NAME": "Oliver Picone",
+                    "TIME": "31:08"
+                },
+                {
+                    "DISPLAY_NAME": "Con Tsioulos",
+                    "TIME": "46:50"
+                },
+                {
+                    "DISPLAY_NAME": "Sean Burnell",
+                    "TIME": "52:26"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "RF CORVAL",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Real Estate",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:41:14",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Rebecca Taveirne",
+                    "TIME": "26:03"
+                },
+                {
+                    "DISPLAY_NAME": "Jenny F",
+                    "TIME": "42:41"
+                },
+                {
+                    "DISPLAY_NAME": "Alice Cousins",
+                    "TIME": "46:48"
+                },
+                {
+                    "DISPLAY_NAME": "Caroline Horne",
+                    "TIME": "46:50"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SUSQUEHANNA PACIFIC PTY LTD",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:42:22",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Jimmy Wang",
+                    "TIME": "34:26"
+                },
+                {
+                    "DISPLAY_NAME": "Fiona Lee",
+                    "TIME": "42:05"
+                },
+                {
+                    "DISPLAY_NAME": "Maggie Yuan",
+                    "TIME": "42:48"
+                },
+                {
+                    "DISPLAY_NAME": "Sam Wu",
+                    "TIME": "43:26"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "NATIONAL AUSTRALIA BANK - ASSET SERVICING",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:42:45",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Jacqueline Roberts",
+                    "TIME": "35:30"
+                },
+                {
+                    "DISPLAY_NAME": "WILSON SANTOSO",
+                    "TIME": "40:20"
+                },
+                {
+                    "DISPLAY_NAME": "warren barnes",
+                    "TIME": "44:19"
+                },
+                {
+                    "DISPLAY_NAME": "Jenny Yan",
+                    "TIME": "44:20"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "COMMONWEALTH BANK OF AUSTRALIA (CPM AND DM)",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:44:29",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Steve Nguyen",
+                    "TIME": "36:14"
+                },
+                {
+                    "DISPLAY_NAME": "chris John carter",
+                    "TIME": "40:14"
+                },
+                {
+                    "DISPLAY_NAME": "KJ",
+                    "TIME": "41:17"
+                },
+                {
+                    "DISPLAY_NAME": "Surekha Rodrigo",
+                    "TIME": "47:27"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "QBE GROUP",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:45:12",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Richard Yin",
+                    "TIME": "33:54"
+                },
+                {
+                    "DISPLAY_NAME": "Ephraim Buraga Katipunan",
+                    "TIME": "39:03"
+                },
+                {
+                    "DISPLAY_NAME": "Sophie Fielding",
+                    "TIME": "40:09"
+                },
+                {
+                    "DISPLAY_NAME": "Sharon",
+                    "TIME": "53:46"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "OKTA",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:46:52",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Hugh Tobin",
+                    "TIME": "41:47"
+                },
+                {
+                    "DISPLAY_NAME": "Ashley Henderson",
+                    "TIME": "42:20"
+                },
+                {
+                    "DISPLAY_NAME": "Chris Trompf",
+                    "TIME": "42:33"
+                },
+                {
+                    "DISPLAY_NAME": "Ghassan Haddara",
+                    "TIME": "43:25"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "SUSQUEHANNA PACIFIC PTY LTD",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:50:05",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Krystina Wallis",
+                    "TIME": "29:19"
+                },
+                {
+                    "DISPLAY_NAME": "Viviane Murphy",
+                    "TIME": "38:24"
+                },
+                {
+                    "DISPLAY_NAME": "Kim Phan",
+                    "TIME": "48:34"
+                },
+                {
+                    "DISPLAY_NAME": "Li Wen Beh",
+                    "TIME": "54:44"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "GEN RE",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:51:01",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Megan Tumminello",
+                    "TIME": "21:12"
+                },
+                {
+                    "DISPLAY_NAME": "Ashka Shah",
+                    "TIME": "25:34"
+                },
+                {
+                    "DISPLAY_NAME": "Joanna Brown",
+                    "TIME": "1:06:04"
+                },
+                {
+                    "DISPLAY_NAME": "Kylie  Rosevear",
+                    "TIME": "1:06:05"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ALLIANZ",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:58:55",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Chaitanya Prabhu Shroff Sreerama",
+                    "TIME": "38:42"
+                },
+                {
+                    "DISPLAY_NAME": "TsungYi Tsai",
+                    "TIME": "40:25"
+                },
+                {
+                    "DISPLAY_NAME": "Felix Schmitz",
+                    "TIME": "44:55"
+                },
+                {
+                    "DISPLAY_NAME": "Simon Mathews",
+                    "TIME": "54:59"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ABN AMRO CLEARING SYDNEY PTY LTD",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "2:59:01",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Shimin Xie",
+                    "TIME": "34:52"
+                },
+                {
+                    "DISPLAY_NAME": "Nicoletta Mitsopoulos",
+                    "TIME": "41:11"
+                },
+                {
+                    "DISPLAY_NAME": "Marie D'Cruz",
+                    "TIME": "54:51"
+                },
+                {
+                    "DISPLAY_NAME": "Helen Mei",
+                    "TIME": "55:59"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "GLENCORE",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Other",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "3:06:53",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Arv Hughes",
+                    "TIME": "36:15"
+                },
+                {
+                    "DISPLAY_NAME": "Naresh Thapa",
+                    "TIME": "45:27"
+                },
+                {
+                    "DISPLAY_NAME": "Mel De Castro",
+                    "TIME": "53:09"
+                },
+                {
+                    "DISPLAY_NAME": "Mythreyi Mangaleswaran",
+                    "TIME": "53:09"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "REA GROUP LTD",
+            "ENTRANT_TYPE": "Mixed",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "3:08:00",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Suzanne Dwyer",
+                    "TIME": "40:56"
+                },
+                {
+                    "DISPLAY_NAME": "Philippa Honner",
+                    "TIME": "42:55"
+                },
+                {
+                    "DISPLAY_NAME": "Alexandra Cooper",
+                    "TIME": "53:42"
+                },
+                {
+                    "DISPLAY_NAME": "Kirsty Timsans",
+                    "TIME": "53:43"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "HONNER",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Advertising/Public Relations",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "3:11:16",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Carla Boggiano",
+                    "TIME": "37:04"
+                },
+                {
+                    "DISPLAY_NAME": "Kim Seller",
+                    "TIME": "44:31"
+                },
+                {
+                    "DISPLAY_NAME": "Dunn",
+                    "TIME": "55:18"
+                },
+                {
+                    "DISPLAY_NAME": "Renee Pinto",
+                    "TIME": "55:20"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "AUTODESK AUSTRALIA",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Technology ",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "3:12:13",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Eima Alkheder",
+                    "TIME": "32:53"
+                },
+                {
+                    "DISPLAY_NAME": "Ann  Mitchell",
+                    "TIME": "49:36"
+                },
+                {
+                    "DISPLAY_NAME": "LIZ NOBREGA",
+                    "TIME": "50:13"
+                },
+                {
+                    "DISPLAY_NAME": "Hannah Collins",
+                    "TIME": "1:00:41"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "AON ",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Insurance",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "3:13:23",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Peter Matthew",
+                    "TIME": "37:14"
+                },
+                {
+                    "DISPLAY_NAME": "Ben Oxenham",
+                    "TIME": "40:08"
+                },
+                {
+                    "DISPLAY_NAME": "Simon Levy",
+                    "TIME": "1:05:01"
+                },
+                {
+                    "DISPLAY_NAME": "Amir Daftari",
+                    "TIME": "1:05:02"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "YOUGOV ",
+            "ENTRANT_TYPE": "Men",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "3:27:25",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Vicki McMurray",
+                    "TIME": "36:52"
+                },
+                {
+                    "DISPLAY_NAME": "Vani Rishikesan ",
+                    "TIME": "50:07"
+                },
+                {
+                    "DISPLAY_NAME": "Sharon Liu",
+                    "TIME": "1:01:11"
+                },
+                {
+                    "DISPLAY_NAME": "Mary Ortega",
+                    "TIME": "1:01:12"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ABN AMRO CLEARING SYDNEY PTY LTD",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Banking/Finance/Investments",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "3:29:22",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Lucy Langley",
+                    "TIME": "55:39"
+                },
+                {
+                    "DISPLAY_NAME": "Kim Bennett",
+                    "TIME": "55:42"
+                },
+                {
+                    "DISPLAY_NAME": "Juliet Grant",
+                    "TIME": "56:06"
+                },
+                {
+                    "DISPLAY_NAME": "Bec Gordon",
+                    "TIME": "56:06"
+                }
+            ],
+            "OVERALL_TEAM": 9,
+            "TEAM_NAME": "CITY PLAN ",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": 2,
+            "OVERCATEGORY_TEAM": 5,
+            "OVERCATEGORY_GENDER_TEAM": 1,
+            "TEAM_TIME": "3:43:33",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Mckenzie Quigg",
+                    "TIME": "56:24"
+                },
+                {
+                    "DISPLAY_NAME": "Rebecca O'Donnell",
+                    "TIME": "56:25"
+                },
+                {
+                    "DISPLAY_NAME": "Elyse Kenny",
+                    "TIME": "56:26"
+                },
+                {
+                    "DISPLAY_NAME": "Ashleigh Coombes",
+                    "TIME": "57:02"
+                }
+            ],
+            "OVERALL_TEAM": 10,
+            "TEAM_NAME": "CITY PLAN ",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Consulting",
+            "OVERGENDER_TEAM": 3,
+            "OVERCATEGORY_TEAM": 6,
+            "OVERCATEGORY_GENDER_TEAM": 2,
+            "TEAM_TIME": "3:46:17",
+            "DISPLAY_NAME": ""
+        },
+        {
+            "MEMBERS": [
+                {
+                    "DISPLAY_NAME": "Jemma York",
+                    "TIME": "44:49"
+                },
+                {
+                    "DISPLAY_NAME": "Leanne Meoli",
+                    "TIME": "1:01:21"
+                },
+                {
+                    "DISPLAY_NAME": "Chantal Simms",
+                    "TIME": "1:01:54"
+                },
+                {
+                    "DISPLAY_NAME": "Caitlin Hoey",
+                    "TIME": "1:01:54"
+                }
+            ],
+            "OVERALL_TEAM": null,
+            "TEAM_NAME": "ACADEMY TRAVEL",
+            "ENTRANT_TYPE": "Women",
+            "CATEGORY_NAME": "Airlines/Travel Related",
+            "OVERGENDER_TEAM": null,
+            "OVERCATEGORY_TEAM": null,
+            "OVERCATEGORY_GENDER_TEAM": null,
+            "TEAM_TIME": "3:49:58",
+            "DISPLAY_NAME": ""
+        }
+    ],
+    "GENDERS": {
+        "Men": 91,
+        "Women": 42,
+        "Mixed": 43
+    },
+    "CATEGORIES": {
+        "0": "Government",
+        "1": "Banking/Finance/Investments",
+        "2": "Other",
+        "3": "Technology ",
+        "4": "Telecommunications ",
+        "5": "Consulting",
+        "6": "Insurance",
+        "9": "Petroleum Refining/Crude Oil Products/Gas/Mining",
+        "10": "Airlines/Travel Related",
+        "23": "Legal",
+        "27": "Accounting",
+        "57": "Real Estate",
+        "81": "Engineering/Architecture",
+        "86": "Health Related/Hospitals",
+        "118": "Communications",
+        "133": "Advertising/Public Relations"
+    }
+}
