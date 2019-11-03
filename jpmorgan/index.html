@@ -118,7 +118,7 @@
         #nameFilter {
             text-transform: capitalize;
         }
-        #companyFilter {
+        #teamFilter {
             text-transform: uppercase;   
         }
         .dimmed {
@@ -144,6 +144,20 @@
             border-color: cadetblue;
             width: 0px;
             border-width: 0;
+        }
+        .record-header > a {
+            cursor: pointer;
+            font-size: 1.5rem;
+        }
+        .record-header {
+            font-size: 0;
+        }
+        .record-header > a + a:not(:empty)::before {
+            content: "—";
+            cursor: default;
+            color: black;
+            margin: 0;
+            padding: 0 1em;
         }
     </style>
 </head>
@@ -194,7 +208,7 @@
                     <input class='u-full-width' type='text' placeholder='Name' id='nameFilter'>
                 </div>
                 <div class='two columns'>
-                    <input class='u-full-width' type='text' placeholder='Company' id='companyFilter'>
+                    <input class='u-full-width' type='text' placeholder='Team' id='teamFilter'>
                 </div>
                 <div class='two columns'>
                     &nbsp;<!--<button id='teamAlias'>Company Aliases</button>-->
@@ -214,7 +228,10 @@
             <div class='row'>
                 <hr/>
                 <div class='u-full-width' style='text-align: center;'>
-                    <span class='title' id='record-name' style='font-weight: bold;'></span>
+                    <span class='record-header title' style='font-weight: bold;'>
+                        <a id='record-name'></a>
+                        <a id='record-team'></a>
+                    </span>
                 </div>
             </div>
             <div class='row'>

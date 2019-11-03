@@ -1,4 +1,5 @@
 const run = async (aliases) => {
+
     const startYear = 2005, endYear = 2019;
 
     var strokeWidth = [12,8,8,6,6,4,4,2,2,2];
@@ -293,7 +294,8 @@ const run = async (aliases) => {
             const d = filteredFlatData[i]
             const results = filteredResults[d.key]
 
-            d3.select('#record-name').text(`${d.data.DISPLAY_NAME} - ${d.data.TEAM_NAME}`)
+            d3.select('#record-name').text(`${d.data.DISPLAY_NAME}`)
+            d3.select('#record-team').text(`${d.data.TEAM_NAME}`)
             d3.select('#records').selectAll('tr').remove()
             const row = d3.select('#records').selectAll('tr').data(results).enter().append('tr')
             row.append('td').text(d => d.year)
@@ -332,9 +334,27 @@ const run = async (aliases) => {
     }
 
     const filters = {}
+
+    const updateFiltersFromLocation = () => {
+        let queryParams = {}
+        if (window.location.search && window.location.search.slice(1)) {
+            queryParams = d3.nest()
+                .key(d => d[0])
+                .rollup(d => d[0][1])
+                .object(window.location.search.slice(1).split('&').map(d => d.split('=')).filter(d => d.length === 2))
+        }
+        filters.name = queryParams.name ? decodeURIComponent(queryParams.name) : undefined
+        filters.team = queryParams.team ? decodeURIComponent(queryParams.team) : undefined;
+        filters.sex = queryParams.sex && (queryParams.sex.toUpperCase() === 'F' || queryParams.sex.toUpperCase() === 'M') ? queryParams.sex.toUpperCase() : undefined
+        if (redraw) redraw(false)
+    }
+    updateFiltersFromLocation();
+
+    window.onpopstate = updateFiltersFromLocation
+
     d3.select('#clearFilters').on('click', () => { 
         filters.sex = undefined; 
-        filters.company = undefined 
+        filters.team = undefined 
         filters.name = undefined
         redraw()
     })
@@ -345,16 +365,16 @@ const run = async (aliases) => {
     d3.select('#maleButton').on('click', () => applySexFilter('M'))
     d3.select('#femaleButton').on('click', () => applySexFilter('F'))
     d3.select('#allButton').on('click', () => applySexFilter(undefined))
-    const applyCompanyFilter = company => {
-        filters.company = company
+    const applyTeamFilter = team => {
+        filters.team = team
         redraw()
     }    
     let debounceTimeout
-    d3.select('#companyFilter').on('input', () => {
+    d3.select('#teamFilter').on('input', () => {
         cleanData()
         clearTimeout(debounceTimeout)
         setTimeout(() => {
-            applyCompanyFilter(d3.select('#companyFilter').node().value)
+            applyTeamFilter(d3.select('#teamFilter').node().value)
         }, 1000)        
     })
     const applyNameFilter = name => {
@@ -368,30 +388,47 @@ const run = async (aliases) => {
             applyNameFilter(d3.select('#nameFilter').node().value)
         }, 1000)
     })
+    d3.select('#record-name').on('click', () => {
+        applyNameFilter(d3.select('#record-name').text())
+    })
+    d3.select('#record-team').on('click', () => {
+        applyTeamFilter(d3.select('#record-team').text())
+    })
     
-    const redraw = () => {
+    const redraw = (updateHistory = true) => {
         d3.select('#maleButton').classed('active', filters.sex === 'M')
         d3.select('#femaleButton').classed('active', filters.sex === 'F')
         d3.select('#allButton').classed('active', !filters.sex)
-        d3.select('#companyFilter').node().value = filters.company || ''
-        const company = filters.company ? filters.company.toUpperCase() : undefined
+        d3.select('#teamFilter').node().value = filters.team || ''
+        const team = filters.team ? filters.team.toUpperCase() : undefined
         d3.select('#nameFilter').node().value = filters.name || ''
         const name = filters.name ? filters.name.toLowerCase() : undefined
-        const filterCompany = filters.company ? d => {
+        
+        if (updateHistory) {
+            const search = []
+            filters.team && search.push(`team=${filters.team}`)
+            filters.name && search.push(`name=${filters.name}`)
+            filters.sex && search.push(`sex=${filters.sex}`)
+            
+            window.history.pushState(undefined, undefined, 
+                search.length ? '?' + search.join('&') : window.location.pathname)
+        }
+
+        const filterTeam = filters.team ? d => {
             if (!d.TEAM_NAME) return false
             const names = aliasMap[d.TEAM_NAME] || [d.TEAM_NAME]
-            return names.some(name => name.indexOf && name.indexOf(company, 0) !== -1)
+            return names.some(name => name.indexOf && name.indexOf(team, 0) !== -1)
         } : _ => true;
         const filterName = filters.name ? d => {
             return d.DISPLAY_NAME && d.DISPLAY_NAME.indexOf && d.DISPLAY_NAME.toLowerCase().indexOf(name, 0) !== -1
         } : _ => true;
         const filterSex = d => !filters.sex || d.SEX === filters.sex
-        filterData(d => filterCompany(d) && filterName(d) && filterSex(d))
+        filterData(d => filterTeam(d) && filterName(d) && filterSex(d))
         showData(10)
     }
 
     redraw()
 }
 run([
-    ['WILLIS TOWERS WATSON', 'TOWERS WATSON', 'WATSON WYATT AUSTRALIA', 'WATSON WYATT', 'TILLINGHAST - TOWERS PERRIN', 'TOWERS PERRIN - TILLINGHAST', 'TOWERS PERRIN']
+    ['WTW', 'WILLIS TOWERS WATSON', 'TOWERS WATSON', 'WATSON WYATT AUSTRALIA', 'WATSON WYATT', 'TILLINGHAST - TOWERS PERRIN', 'TOWERS PERRIN - TILLINGHAST', 'TOWERS PERRIN']
 ])
